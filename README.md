@@ -1,4 +1,4 @@
-# Universal Blockchain Lottery App (Web, Desktop, Mobile)
+# Web3/Blockchain Lottery App (Web, Desktop, Mobile)
 
 ## Overview
 
